@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚Cursando Engenharia de Software - UNINTER<br>💻Procurando Estagio<br>❤ 17 Anos
+📚Cursando Engenharia de Software - UNINTER<br>💻Procurando Estagio<br>❤ 18 Anos
 
 
 ## 🌐 Socials:
