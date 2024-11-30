@@ -1,7 +1,7 @@
 <h1 align="center">Ola, eu sou João Gabriel</h1>
 <h3 align="center">Sou Desenvolvedor Java || Spring Boot</h3>
 
-- 🔭 Trabalhei em uma API [APIEscola](https://github.com/K1iing/APIEscola)
+- 🔭 Trabalhei em um projeto [Clubooks](https://github.com/K1iing/APIEscola)
 
 - 🌱 Atualmente estudo **Spring Boot e APIRestful**
 
