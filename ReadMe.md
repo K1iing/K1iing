@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estudo **Spring Boot e APIRestful**
 
-- 📫 Email para Contato **tyrodunuts@gmail.com**
+- 📫 Email para Contato **joaogabrieljava18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
