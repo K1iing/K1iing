@@ -3,7 +3,7 @@
 
 - 🔭 Trabalhando em um projeto [Clubooks](https://github.com/Marllon-Wendel2/ClubooksJava)
 
-- 🌱 Atualmente estudo **Spring Boot e APIRestful**
+- 🌱 Atualmente estudo **Spring | Java**
 
 - 📫 Email para Contato **joaogabrieljava18@gmail.com**
 
