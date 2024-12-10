@@ -1,7 +1,7 @@
 <h1 align="center">Ola, eu sou João Gabriel</h1>
 <h3 align="center">Sou Desenvolvedor Java | Spring Boot | Security |</h3>
 
-- 🔭 Trabalhando em um projeto [Clubooks](https://github.com/Marllon-Wendel2/ClubooksJava)
+- 🔭 Trabalhando em um projeto [Clubooks]([https://github.com/Marllon-Wendel2/ClubooksJava](https://github.com/K1iing/Clubooks))
 
 - 🌱 Atualmente estudo **Spring | Java**
 
