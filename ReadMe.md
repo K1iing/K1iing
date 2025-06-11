@@ -3,8 +3,6 @@
 
 - 🔭 Trabalhando em um projeto [**ClubService**](https://github.com/K1iing/clubservice)
 
-- 🌱 Atualmente estudo **Spring | Java**
-
 - 📫 Email para Contato **joaogabrieljava18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
