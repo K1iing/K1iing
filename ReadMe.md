@@ -1,5 +1,5 @@
 <h1 align="center">Ola, eu sou João Gabriel</h1>
-<h3 align="center">Sou Desenvolvedor Java (Spring) | C# | Cloud |</h3>
+<h3 align="center">Sou Desenvolvedor Java (Spring) | C# | Cloud | .NET | DevExpress </h3>
 
 - 🔭 Trabalhando em um projeto [**ClubService**](https://github.com/K1iing/clubservice)
 
